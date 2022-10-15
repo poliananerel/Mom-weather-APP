@@ -1,0 +1,44 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(226, 240, 254) 0%,
+    rgb(255, 247, 228) 90%
+  );
+}
+
+button {
+  font-size: 14px;
+  color: #e08f62;
+  border: none;
+}
+
+form {
+  font-size: 16px;
+  color: #e08f62;
+  margin-top: 40px;
+  margin-left: 20px;
+  border-color: bisque;
+  border-radius: 20px;
+}
+
+h1 {
+  color: #839aa8;
+  margin-top: 30px;
+  margin-right: 20px;
+  font-size: 45px;
+  font-weight: bolder;
+  text-align: right;
+}
+
+p {
+  font-size: 14px;
+  font-weight: 300;
+  text-align: justify;
+}
+
+h5 {
+  font-size: 18px;
+  font-weight: bolder;
+  color: #a25b5b;
+}
